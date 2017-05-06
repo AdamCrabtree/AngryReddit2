@@ -21,6 +21,7 @@ namespace AngryReddit
             List<string> angryTitles = new List<String>();
             angryTitles = analyzeSubreddit("/r/politics").Result;
             List<String> angryTopics = new List<String>();
+            Console.Write("just seeing how github works");
             angryTopics = analyzeTitles(angryTitles).Result;
             
         }
