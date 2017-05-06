@@ -15,7 +15,7 @@ namespace AngryReddit
             var apiKey = "834d70278ac84264b39b0eac12c61f76";
             var document = new SentimentDocument()
             {
-                Id = "documentMyButtInMyPantsu",
+                Id = "sfafaewfa",
                 Text = redditTitle,
                 Language = "en"
             };
